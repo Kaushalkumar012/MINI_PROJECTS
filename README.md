@@ -1,0 +1,2 @@
+# MINI_PROJECTS
+This repo contains MINI PROJECTS USING HTML CSS &amp; JS.
