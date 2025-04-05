@@ -8,3 +8,7 @@ This repo contains MINI PROJECTS USING HTML CSS &amp; JS.
 2) HEART ANIMATION
 
  ![Screenshot 2025-04-03 095821](https://github.com/user-attachments/assets/32b92db5-07ac-4931-84f5-bf6b03716234)
+
+3) VERTICAL STEPPER
+   
+![Screenshot 2025-04-05 143021](https://github.com/user-attachments/assets/0974cbc1-00ec-49c0-8ac2-b01edb7fa992)
