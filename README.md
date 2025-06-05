@@ -20,3 +20,7 @@ https://github.com/user-attachments/assets/f35a2f1d-0702-448c-9524-0b1e29a834c9
 
 5) Date Calculator
 ![Screenshot 2025-06-04 205421](https://github.com/user-attachments/assets/bfd41f6e-330b-4e1e-8d45-5660175e151c)
+
+6)Survey Form
+
+![Screenshot 2025-06-05 223109](https://github.com/user-attachments/assets/78bd810e-0670-4a1e-ae22-89f6b815d993)
