@@ -12,7 +12,7 @@ This repo contains MINI PROJECTS USING HTML CSS &amp; JS.
 3) VERTICAL STEPPER
    
 ![Screenshot 2025-04-05 143021](https://github.com/user-attachments/assets/0974cbc1-00ec-49c0-8ac2-b01edb7fa992)
-
+                               
 4) 404 PAGE
 
 https://github.com/user-attachments/assets/f35a2f1d-0702-448c-9524-0b1e29a834c9
